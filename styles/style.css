@@ -76,3 +76,17 @@ body{
 .equal{
     width: 50%; 
 }
+/*   ===================================== */
+.link{
+    text-align: center;
+    margin: 10px 0;
+}
+.link a{
+    text-decoration: none; 
+    font-size: 16px;
+    color: #acacac;
+    font-weight: bold;
+}
+.link a:hover{ 
+    color: #d800ff; 
+}
